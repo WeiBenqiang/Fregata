@@ -1,1 +1,0 @@
-add_library(randen STATIC randen.cc randen.h vector128.h)
