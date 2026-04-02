@@ -12,3 +12,4 @@ cd Fregata
 * GBSmode:  cd GBSmode;mkdir build; cd build;cmake ..; make
 * FBSmode: cd FBSmode;mkdir build; cd build;cmake ..; make
 * CBSmode: cd CBSmode;mkdir build; cd build;cmake -DENABLE_TEST=ON ..; make; cd homoSM4_CB
+# 🧪 这是一个测试 PR，用于验证流程
