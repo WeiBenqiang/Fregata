@@ -1,10 +1,10 @@
 # Fregata
 
-> Faster Homomorphic Evaluation of AES and SM4 via TFHE
+> Fregata: Faster Homomorphic Evaluation of AES via TFHE
 
 Fregata is an optimized implementation for homomorphic evaluation of **SM4** and **AES** block ciphers based on the [TFHE](https://eprint.iacr.org/2018/421.pdf) fully homomorphic encryption scheme. It provides three distinct bootstrapping modes to balance performance and functionality.
 
-**Paper**: [Faster Homomorphic Evaluation of AES via TFHE (ASIACRYPT 2023)](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20)
+**Paper**: [Fregata: Faster Homomorphic Evaluation of AES via TFHE (ISC 2023)](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20)
 
 ## Project Structure
 
@@ -131,11 +131,12 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @inproceedings{fregata2023,
-  title     = {Faster Homomorphic Evaluation of AES via TFHE},
-  booktitle = {Advances in Cryptology -- ASIACRYPT 2023},
+  title     = {Fregata: Faster Homomorphic Evaluation of AES via TFHE},
+  booktitle = {Information Security Conference (ISC 2023)},
   series    = {Lecture Notes in Computer Science},
   publisher = {Springer},
-  year      = {2023}
+  year      = {2023},
+  url       = {https://link.springer.com/chapter/10.1007/978-3-031-49187-0_20}
 }
 ```
 
