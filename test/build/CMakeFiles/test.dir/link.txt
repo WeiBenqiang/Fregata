@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/homoAES.cpp.o -o test  -ltfhe-spqlios-fma 
